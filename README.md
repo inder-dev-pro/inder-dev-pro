@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@inder.31ssb](https://medium.com/@inder.31ssb)
 
-- 💬 Ask me about **Machine Learing and Python**
+- 💬 Ask me anything on **Machine Learing and Python**
 
 - 📫 How to reach me **theindersharma@gmail.com**
 
