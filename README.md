@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [RAG_Chatbot](https://github.com/inder-dev-pro/RAG_NOTESBOT) and [GreenWave](https://github.com/inder-dev-pro/GreenWave)
 
-- 🌱 I’m currently learning **GenAI and LLM's**
+- 🌱 I’m currently learning **AI Agents and Workflows**
 
 - 👯 I’m looking to collaborate on **Hackathons and Collaborations**
 
