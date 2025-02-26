@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Inder Sharma</h1>
+<h1 align="center">Hi 👋, I'm Inder Sharma</h1>
 <h3 align="center">Passionate AI/ML Developer | Skilled in C++ Problem-Solving | Lifelong Learner Embracing Innovation. Building strong connections and skills everyday.</h3>
 <img align="center" alt="Coding" widht="300" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inder-dev-pro&label=Profile%20views&color=0e75b6&style=flat" alt="inder-dev-pro" /> </p>
