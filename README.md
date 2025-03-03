@@ -52,4 +52,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inder-dev-pro&show_icons=true&locale=en" alt="inder-dev-pro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inder-dev-pro&" alt="inder-dev-pro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inder-dev-pro&" alt="inder-dev-pro" /></p> 
