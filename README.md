@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons and Collaborations**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-git-main-inder-sharmas-projects.vercel.app/](https://portfolio-git-main-inder-sharmas-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/inder-dev-pro?tab=repositories](https://github.com/inder-dev-pro?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@inder.31ssb](https://medium.com/@inder.31ssb)
 
